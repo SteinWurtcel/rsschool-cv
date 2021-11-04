@@ -1,2 +1,2 @@
 # rsschool-cv
-https://steinwurtcel.io/rsschool-cv/cv
+https://steinwurtcel.github.io/rsschool-cv/cv
